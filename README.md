@@ -1,5 +1,4 @@
-![photo_2_2025-02-08_22-27-55](https://github.com/user-attachments/assets/400436eb-0dd2-4978-a74d-65f3b54f33c8)# Unit Converter
-
+# Unit Converter
 ## 📌 Overview
 Unit Converter is a simple Android application built with Jetpack Compose. It allows users to convert between different length units, including meters, centimeters, millimeters, and feet.
 
